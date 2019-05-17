@@ -1,4 +1,4 @@
 [submodule "build-binary/aws-sigv4-proxy"]
 	path = build-binary/aws-sigv4-proxy
-	url = https://github.com/brianbianco/aws-sigv4-proxy.git
-	branch = strip_headers_feature
+	url = https://github.com/ethanrowe/aws-sigv4-proxy.git
+	branch = s3-specific-signer-v0
